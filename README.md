@@ -26,7 +26,7 @@ OF PATCHWORKS WHICH COMES TO BE.
 @SMARTKONTRAKT NOV 2020
 ```
 
-ipfs.io/ipfs/QmT54nWdcvfAg9ByPwUiMPtqHKU8uK8XMw8zwb7NaXy51m 
+https://ipfs.io/ipfs/QmT54nWdcvfAg9ByPwUiMPtqHKU8uK8XMw8zwb7NaXy51m 
 ```
 KT1M2Gng6zuDEy7PFivXPDYgrNnYEfLsc1z1#13
 ```
